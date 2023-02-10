@@ -7,4 +7,3 @@ def parrot(phrase="Squawk!")
   
 end
 
-  puts parrot("Squawk!")
